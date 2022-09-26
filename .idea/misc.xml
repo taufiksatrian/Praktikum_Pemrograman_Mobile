@@ -3,7 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Taufik Satria N/AndroidStudioProjects/Praktikum_Pemrograman_Mobile/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Taufik Satria N/AndroidStudioProjects/Praktikum_Pemrograman_Mobile/app/src/main/res/drawable/button.xml" value="0.1" />
+        <entry key="..\:/Users/Taufik Satria N/AndroidStudioProjects/Praktikum_Pemrograman_Mobile/app/src/main/res/drawable/ic_done.xml" value="0.1705" />
+        <entry key="..\:/Users/Taufik Satria N/AndroidStudioProjects/Praktikum_Pemrograman_Mobile/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Taufik Satria N/AndroidStudioProjects/Praktikum_Pemrograman_Mobile/app/src/main/res/drawable/ic_succesful_login.xml" value="0.133" />
+        <entry key="..\:/Users/Taufik Satria N/AndroidStudioProjects/Praktikum_Pemrograman_Mobile/app/src/main/res/drawable/ractangle.xml" value="0.1" />
+        <entry key="..\:/Users/Taufik Satria N/AndroidStudioProjects/Praktikum_Pemrograman_Mobile/app/src/main/res/layout/activity_forgot_password.xml" value="0.2" />
+        <entry key="..\:/Users/Taufik Satria N/AndroidStudioProjects/Praktikum_Pemrograman_Mobile/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/Taufik Satria N/AndroidStudioProjects/Praktikum_Pemrograman_Mobile/app/src/main/res/layout/activity_logout.xml" value="0.264945652173913" />
+        <entry key="..\:/Users/Taufik Satria N/AndroidStudioProjects/Praktikum_Pemrograman_Mobile/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Taufik Satria N/AndroidStudioProjects/Praktikum_Pemrograman_Mobile/app/src/main/res/layout/activity_modul.xml" value="0.1" />
+        <entry key="..\:/Users/Taufik Satria N/AndroidStudioProjects/Praktikum_Pemrograman_Mobile/app/src/main/res/layout/activity_reset_password.xml" value="0.2" />
+        <entry key="..\:/Users/Taufik Satria N/AndroidStudioProjects/Praktikum_Pemrograman_Mobile/app/src/main/res/layout/activity_success_login.xml" value="0.152" />
+        <entry key="..\:/Users/Taufik Satria N/AndroidStudioProjects/Praktikum_Pemrograman_Mobile/app/src/main/res/layout/activity_success_reset_password.xml" value="0.1" />
+        <entry key="..\:/Users/Taufik Satria N/AndroidStudioProjects/Praktikum_Pemrograman_Mobile/app/src/main/res/layout/activity_welcome.xml" value="0.1" />
       </map>
     </option>
   </component>
